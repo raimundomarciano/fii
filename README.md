@@ -2,8 +2,8 @@
 
 **< Work in progress >**
 
-1. Download files from < https://dados.cvm.gov.br/dataset/ >
-2. Read them 
-3. Check data types
+1. Download files from < https://dados.cvm.gov.br/dataset/ > :: ok 
+2. Read them  :: ok
+3. Check data types :: next step
 4. Bind/Merge, if convenient
 5. Summarize some data
